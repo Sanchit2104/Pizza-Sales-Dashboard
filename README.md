@@ -1,6 +1,8 @@
 # 🍕 Pizza Sales Dashboard
 This project is a Pizza Sales Dashboard built to visualize and analyze sales performance for a pizza restaurant. The dashboard provides valuable insights into sales trends, order patterns, customer preferences, and best-selling products.
 
+![image alt](https://github.com/Sanchit2104/Pizza-Sales-Dashboard/blob/main/Screenshot%20(28).png?raw=true)
+
 # 📊 Project Overview
 The dashboard is designed to help stakeholders make data-driven decisions by providing:
 
